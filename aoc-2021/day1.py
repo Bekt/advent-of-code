@@ -7,4 +7,5 @@ def s():
   return p1, p2
 
 if __name__ == '__main__':
+  # p1, p2 (1527, 1575)
   print(s())
